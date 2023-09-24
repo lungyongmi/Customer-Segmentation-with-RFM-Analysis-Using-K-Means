@@ -1,7 +1,7 @@
 ## Project 1：Segment Customers with RFM and K-Means
 
 #### Project Goal:
-Segment customers with RFM and K-Means in order to target customers efficiently.
+Segment customers with RFM and K-Means in order to target customers efficiently.<br>
 透過 RFM 模型與  KMeans 演算法進行客戶分群，找出目標客戶。
 
 #### Dataset Overview:
