@@ -23,4 +23,4 @@ The company mainly sells unique all-occasion gifts. Many customers of the compan
 5. K-Means Clustering <br>
 6. Conclusion <br>
 
-Check the project here ➜ <a href="https://archive.ics.uci.edu/ml/datasets/online+retail">MyPersonalWebsite</a> 
+Check the project here ➜ <a href="https://lungyongmi.github.io/portfolio/portfolio-1/">MyPersonalWebsite</a> 
