@@ -1,7 +1,7 @@
 ## Project 1：Segment Customers with RFM and K-Means
 
 #### Project Goal:
-Segment customers with RFM and K-Means in order to target customers efficiently
+Segment customers with RFM and K-Means in order to target customers efficiently.
 透過 RFM 模型與  KMeans 演算法進行客戶分群，找出目標客戶。
 
 #### Dataset Overview:
@@ -16,9 +16,9 @@ The company mainly sells unique all-occasion gifts. Many customers of the compan
 ・Power BI
 
 ### Analysis Process:
-1. Reading and Exploring Data <br>
+1. Read and Explore Data <br>
 2. Data Cleansing <br>
-3. Calculating RFM Metrics <br>
+3. Calculate RFM Metrics <br>
 4. Data Preprocessing <br>
 5. K-Means Clustering <br>
 6. Conclusion <br>
