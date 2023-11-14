@@ -1,7 +1,7 @@
 ## Project 1：Customer Segmentation with RFM Analysis Using K-Means
 
 #### Project Goal:
-Segment customers in order to target customers efficiently.
+Segment customers in order to target customers efficiently.<br/>
 協助公司了解客戶樣貌，找出目標客群，進行分眾行銷分析。
 
 #### Dataset Overview:
